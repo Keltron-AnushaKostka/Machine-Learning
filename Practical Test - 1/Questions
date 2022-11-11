@@ -4,3 +4,13 @@
 2. Solve Linear Regression using any dataset from Kaggle on your own.
 
 3. Try 3 or 4 datasets from kaggle to implement Logistic and Linear Regression
+
+
+
+Few Mistakes Made in Solving Q1:
+1. Read the question properly
+2. Check if it is Logistic or Linear Regression first
+3. If Logistic Regression then the target has to be in choice
+4. Check for training data and testing data
+5. Also check with sklearn
+6. Check with accuracy score if it is logistic regression
