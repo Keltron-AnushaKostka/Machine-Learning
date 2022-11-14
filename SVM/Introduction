@@ -1,3 +1,7 @@
 SVM Solutions: 
 1. Using Standard Scaler for Preprocessing
 2. For Null Values
+
+- SVM Uses:
+1. Identifying antibiotic resistant bacteria from DNA
+Try this --> https://www.kaggle.com/code/nwheeler443/identifying-antibiotic-resistant-bacteria-from-dna/data?select=metadata.csv
