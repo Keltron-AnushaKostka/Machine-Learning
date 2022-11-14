@@ -5,3 +5,5 @@ SVM Solutions:
 - SVM Uses:
 1. Identifying antibiotic resistant bacteria from DNA
 Try this --> https://www.kaggle.com/code/nwheeler443/identifying-antibiotic-resistant-bacteria-from-dna/data?select=metadata.csv
+2. Gene Expression Classification
+Try this -->https://www.kaggle.com/code/varimp/gene-expression-classification/data?select=actual.csv
